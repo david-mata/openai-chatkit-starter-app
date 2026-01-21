@@ -1,4 +1,5 @@
 # Managed ChatKit starter
+# comment line
 
 Vite + React UI that talks to a FastAPI session backend for creating ChatKit
 workflow sessions.
